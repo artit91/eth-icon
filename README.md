@@ -1,6 +1,8 @@
 # eth-icon
 Ethereum Icon Component
 
+[![npm](https://img.shields.io/npm/v/eth-icon.svg)](https://www.npmjs.com/package/eth-icon)
+
 ## Usage
 ```JavaScript
 import React from "react";
